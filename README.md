@@ -1,6 +1,7 @@
 ![Banner](./public/chatgpt-proxy-banner.png)
+-c for a simple proxy for claude
 
-One-click deployment of the ChatGPT private proxy, power by Next.js, support SSE!
+One-click deployment of the ChatGPT private proxy, power by Next.js, ~~support SSE!~~ (Not for claude)
 
 English | [简体中文](./README-CN.md)
 
