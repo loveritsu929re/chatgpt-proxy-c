@@ -1,8 +1,8 @@
 ![Banner](./public/chatgpt-proxy-banner.png)
 -c for a simple proxy for claude
+edit url in next.config.js and src/pages/api/proxy-sse.js to adapt to different apis
 
-One-click deployment of the ChatGPT private proxy, power by Next.js, ~~support SSE!~~ (Not for claude)
-
+One-click deployment of the ChatGPT private proxy, power by Next.js, support SSE!
 English | [简体中文](./README-CN.md)
 
 ## Introduction
